@@ -2,18 +2,18 @@
 
 ### Connect your VPN without ever typing a one-time code again.
 
-**[PassTunnel](https://passtunnel.github.io/passtunnel/)** is a free, open-source macOS app for OpenVPN and FortiGate SSL VPN.
+**[PassTunnel](https://passtunnel.github.io/)** is a free, open-source macOS app for OpenVPN and FortiGate SSL VPN.
 It keeps your TOTP secret in the macOS Keychain, computes the current code and sends it with your password when you click Connect.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://passtunnel.github.io/passtunnel/assets/img/main-dark@2x.webp">
-  <img src="https://passtunnel.github.io/passtunnel/assets/img/main-light@2x.webp" width="640" alt="PassTunnel main window: each VPN profile with its live one-time code and countdown ring">
+  <source media="(prefers-color-scheme: dark)" srcset="https://passtunnel.github.io/assets/img/main-dark@2x.webp">
+  <img src="https://passtunnel.github.io/assets/img/main-light@2x.webp" width="640" alt="PassTunnel main window: each VPN profile with its live one-time code and countdown ring">
 </picture>
 
-**[Website](https://passtunnel.github.io/passtunnel/)** ·
+**[Website](https://passtunnel.github.io/)** ·
 [Download for Mac](https://github.com/PassTunnel/passtunnel/releases/latest) ·
-[Install with Homebrew](https://passtunnel.github.io/passtunnel/#install) ·
-[CLI & MCP](https://passtunnel.github.io/passtunnel/#cli) ·
+[Install with Homebrew](https://passtunnel.github.io/#install) ·
+[CLI & MCP](https://passtunnel.github.io/#cli) ·
 [Security](https://github.com/PassTunnel/passtunnel/blob/main/SECURITY.md)
 
 <sub>macOS 13+ · Apple silicon · Free & open source (MIT)</sub>
