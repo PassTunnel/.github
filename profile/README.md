@@ -11,7 +11,7 @@ It keeps your TOTP secret in the macOS Keychain, computes the current code and s
 </picture>
 
 **[Website](https://passtunnel.github.io/)** ·
-[Download for Mac](https://github.com/PassTunnel/passtunnel/releases/latest) ·
+[Download for Mac](https://github.com/PassTunnel/passtunnel/releases/latest/download/PassTunnel.dmg) ·
 [Install with Homebrew](https://passtunnel.github.io/#install) ·
 [CLI & MCP](https://passtunnel.github.io/#cli) ·
 [Security](https://github.com/PassTunnel/passtunnel/blob/main/SECURITY.md)
